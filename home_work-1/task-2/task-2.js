@@ -1,1 +1,3 @@
-console.log('Mygal')
+(() => {
+    console.log('Mygal')
+})()
