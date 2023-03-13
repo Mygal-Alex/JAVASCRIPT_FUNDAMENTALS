@@ -1,10 +1,10 @@
 (() => {
     let myObject = {
-        string: 'string',
-        number: 10,
-        boolean: true,
-        null:null,
-        udefined:'',
+        String: 'string',
+        Number: 10,
+        Boolean: true,
+        Null:null,
+        Udefined:undefined,
     }
     console.log(myObject)
 })()
